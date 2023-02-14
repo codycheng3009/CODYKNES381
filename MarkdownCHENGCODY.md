@@ -8,7 +8,7 @@
 | -----  | ------ | 
 >__Note:__ Be aware of your surroundings to avoid any collisions. Look around before walking on the matts to ensure everyone's $\color{red}{SAFETY}$
 
-If you want to watch some helpful video tutorials and tips to bouldering, [click here](SubfolderForKNES381/KNES381WebPageHW.md) to access a list of youtube videos! 
+If you want to watch some helpful video tutorials and tips to bouldering, [click here](knes381subfolder/linkedpath.md) to access a list of youtube videos! 
    
 v&#775;
 
