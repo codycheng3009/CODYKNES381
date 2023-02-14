@@ -10,7 +10,7 @@
 
 If you want to watch some helpful video tutorials and tips to bouldering, [click here](knes381subfolder/linkedpath.md) to access a list of youtube videos! 
    
-v&#775;
+V&#775;
 
 
  
